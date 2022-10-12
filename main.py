@@ -74,6 +74,12 @@ conversa = [
     'Se tratando de desenvolvimento web e desenvolvimento de softwares, as linguagens de programação mais usadas no mercado hoje em dia são Python, Java, JavaScript e C++.',
     'Qual a linguagem de programção mais difícil do mundo?',
     'A linguagem de programação considerada como a mais difícil do mundo se chama Malbolge em referência ao oitavo círculo do Inferno na Divina Comédia do autor Dante Alighieri. Foi desenvolvida em 1998 por Ben Olmstead com o objetivo de ser a pior linguagem de programação do mundo em especial por seu caráter esotérico.',
+    'O que é HTML?',
+    'HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML. HyTime é um padrão para a representação estruturada de hipermídia e conteúdo baseado em tempo',
+    'O que é CSS?',
+    'Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web. O código CSS pode ser aplicado diretamente nas tags ou ficar contido dentro das tags <style>. Também é possível, em vez de colocar a formatação dentro do documento, criar um link para um arquivo CSS que contém os estilos.',
+    'O que é PHP?',
+    'PHP é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web.',
 ]
 
 bot.set_trainer(ListTrainer)
