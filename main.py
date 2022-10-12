@@ -70,6 +70,10 @@ conversa = [
     'JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.',
     'O que é MySQL?',
     'O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo.',
+    'Quais são as linguagens de programação mais usadas?',
+    'Se tratando de desenvolvimento web e desenvolvimento de softwares, as linguagens de programação mais usadas no mercado hoje em dia são Python, Java, JavaScript e C++.',
+    'Qual a linguagem de programção mais difícil do mundo?',
+    'A linguagem de programação considerada como a mais difícil do mundo se chama Malbolge em referência ao oitavo círculo do Inferno na Divina Comédia do autor Dante Alighieri. Foi desenvolvida em 1998 por Ben Olmstead com o objetivo de ser a pior linguagem de programação do mundo em especial por seu caráter esotérico.',
 ]
 
 bot.set_trainer(ListTrainer)
